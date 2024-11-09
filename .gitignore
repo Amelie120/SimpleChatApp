@@ -1,0 +1,12 @@
+.env
+langchain.ipynb
+# Ignore virtual environment
+venv/
+
+# Ignore system files
+*.pyc
+__pycache__/
+
+# Ignore other system-specific files
+.DS_Store
+Thumbs.db
